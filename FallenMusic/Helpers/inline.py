@@ -95,7 +95,7 @@ helpmenu = [
         InlineKeyboardButton(text="ᴏᴡɴᴇʀ", callback_data="fallen_cb owner"),
     ],
     [
-        InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="fallen_help"),
+        InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="start_back"),
         InlineKeyboardButton(text="ᴄʟᴏsᴇ", callback_data="close"),
     ],
 ]
